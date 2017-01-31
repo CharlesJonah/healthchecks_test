@@ -1,0 +1,31 @@
+analytics, chart that reports that helo you see the big picture
+
+project overview: allows you to see high level metrics on your poject
+
+velocity: number of points accepted in each iteration.
+cycle time; time spent on stories by state,type and points
+
+rejection rate: rate of stories being rejected
+
+story composition: distribution of acepted and created stories of each time
+
+git add patches, finding out more about it. 
+
+finding the differences in the vaious things in git- hub, 
+
+commiting? you want to git to rember specific parts of the changes that are being made
+
+having changes that you want to commit,
+
+
+-m 
+
+the anatomy a good commit heading.
+
+- telling the module, file or what is being changes. 
+- what is the change in a  nutshell.
+
+example
+[hc] Added a new calculator functionality
+
+This fixes #chore1234
